@@ -1,0 +1,10 @@
+{
+  "name": "js_cards",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "author": "mykolao",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
